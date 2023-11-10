@@ -10,7 +10,7 @@ const fs = require('node:fs/promises')  // Write outputs for civet files
 // - https://github.com/arstnei0/civetman/blob/main/cli/src/main.civet
 
 const watcher = chokidar.watch(['**/*.civet'], {
-    ignored: ['node_modules', '.git'], // Might want to customize these
+    ignored: [/node_modules\/?/, '/.git\/?'], // Might want to customize these
     ignoreInitial: false // false = Compile everything at the start!
 })
 
