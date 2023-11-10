@@ -1,7 +1,9 @@
 # Civet Watch-All
 
+Compiles and re-compiles all [Civet](https://civet.dev/) files on change.
+
 Like [Civetman](https://github.com/arstnei0/civetman/tree/main), but a little
-bit simpler. Compiles and re-compiles all Civet files on change.
+bit simpler.
 
 ## Usage
 
