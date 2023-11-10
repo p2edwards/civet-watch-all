@@ -1,6 +1,7 @@
 # Civet Watch-All
 
-Like [Civetman](https://github.com/arstnei0/civetman/tree/main), but a little bit simpler.
+Like [Civetman](https://github.com/arstnei0/civetman/tree/main), but a little
+bit simpler. Compiles and re-compiles all Civet files on change.
 
 ## Usage
 
