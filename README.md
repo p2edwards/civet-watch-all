@@ -7,9 +7,11 @@ bit simpler.
 
 ## Usage
 
-Copy [`index.js`](./index.js), to your project, customize as needed. Run with node.
+Copy [`index.js`](./index.js) to your project. Run with node.
 
 Read the code, it's pretty short.
+
+Customize to meet your needs.
 
 ## Dependencies
 
