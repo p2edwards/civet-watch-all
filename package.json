@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@danielx/civet": "^0.6.50",
-    "chokidar": "^3.5.3"
+    "@danielx/civet": "^0.7.8",
+    "chokidar": "^3.6.0"
   }
 }
